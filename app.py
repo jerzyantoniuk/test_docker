@@ -1,5 +1,6 @@
 import time
 
-print("Printed immediately.")
+print("Pierwszy obraz.")
 time.sleep(2.4)
-print("Printed after 2.4 seconds.")
+while:True : 
+    pass
